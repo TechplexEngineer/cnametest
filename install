@@ -1,1 +1,3 @@
-test
+#!/bin/bash
+
+echo "Thanks for your interest. Please signup for the beta on https://upbyte.dev"
